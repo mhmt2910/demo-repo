@@ -7,4 +7,6 @@ This is a learning Demo for Git and GitHub
  Watch tutorial on Youtube 
 
 
- Test
+ # Local Development
+
+ 1.  Open Index.html in your browswer
